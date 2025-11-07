@@ -33,3 +33,8 @@ This project analyzes a global survey of data professionals to understand compen
 
 ## Outcome
 This project demonstrates my ability to transform survey data into **business-ready insights** using Power BI. The final dashboard makes exploration easy and supports strategic decisions with a clean, interactive visual experience.
+
+---
+
+# More upcoming projects of PowerBI will be published Online Soon on www.garvdudy.com and will be pushed on Github as well
+# Within A month
